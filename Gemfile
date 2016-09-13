@@ -35,9 +35,9 @@ group :test do
   gem 'guard',                    '2.13.0'
   gem 'guard-minitest',           '2.4.4'
   gem 'minitest',                 '5.9.0'
-  gem 'rspec-rails',              '2.6.1'
-  gem 'webrat',                   '0.7.1'
-  gem 'factory_girl_rails',       '1.0'
+  gem 'rspec-rails'          
+  gem 'webrat'              
+  gem 'factory_girl_rails'       
 end
 
 group :production do
